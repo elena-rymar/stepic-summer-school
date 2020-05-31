@@ -1,6 +1,4 @@
-package stepic.baseSyntax;
-import java.util.Scanner;
-import java.math.*;
+package stepic.baseCourse.Lesson0_1;
 
 /*
     1.1 Ввод вывод
